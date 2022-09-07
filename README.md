@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobertoYSL
 - 👀 I’m interested in sneakers, coding and NFTs
-- 🌱 I’m currently learning python deeply and then starting with GO
-- 📫 Reach me on discord (RobertoYSL#6228) or on twitter (https://twitter.com/RobertoYSL)
+- 🌱 I’m currently learning python deeply and then starting with JS
+- 📫 Reach me on discord (RobertoYSL#8829) or on twitter (https://twitter.com/RobertoYSL)
 - Love you everybody
 
 <!---
