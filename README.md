@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RobertoYSL
-- 👀 I’m interested in sneakers, coding and NFTs
-- 🌱 I’m currently learning python deeply and then starting with JS
+- 👋 Hi, I’m @RobertoYSL a young 18 yrs old developer
+- 👀 I’m interested in sneakers and coding
+- 🌱 I’m currently learning python deeply and then starting with web development
 - 📫 Reach me on discord (RobertoYSL#8829) or on twitter (https://twitter.com/RobertoYSL)
 - Love you everybody
 
